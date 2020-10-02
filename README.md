@@ -99,5 +99,5 @@ Project is: finished with option to expand functionality and DRY out code.
 
 ## Contact
 
-Created byv[Luis Garcia](https://www.linkedin.com/in/luis-garcia-83178b1b4/)
+Created by [Luis Garcia](https://www.linkedin.com/in/luis-garcia-83178b1b4/)
 Feel free to contact us to talk music or talk code!!! 
